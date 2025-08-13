@@ -11,5 +11,7 @@ OpenIDE-Module-Long-Description: <html>
  sifications that remove edges violating generalized triangle inequalities, r
  endering them redundant for shortest-path computations. The ultrametric back
  bone generalizes the minimum spanning tree to directed graphs and is a subgr
- aph of the metric backbone for both directed and undirected networks.</p></html>
+ aph of the metric backbone for both directed and undirected networks.</p>
+ <p>NOTE: The distance measure of a given edge, d<sub>ij</sub>, must be labelled 
+ 'weight'.</p></html>
 OpenIDE-Module-Display-Category: Metric

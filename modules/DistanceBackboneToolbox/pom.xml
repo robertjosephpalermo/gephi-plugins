@@ -43,7 +43,7 @@
                     <licenseName>Apache 2.0</licenseName>
                     <author>Robert Palermo, Felipe Xavier Costa, Luis M. Rocha</author>
                     <authorEmail>rpalermo@binghamton.edu</authorEmail>
-                    <authorUrl>https://casci.binghamton.edu/casci.php#current</authorUrl>
+                    <authorUrl>https://github.com/CASCI-lab/distanceclosure</authorUrl>
                     <sourceCodeUrl>https://github.com/robertjosephpalermo/gephi-plugins.git</sourceCodeUrl>
                     <publicPackages>
                         <!-- Insert public packages -->
