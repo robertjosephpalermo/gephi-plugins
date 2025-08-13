@@ -13,6 +13,11 @@
     <packaging>nbm</packaging>
 
     <name>Distance Backbone Toolbox</name>
+    
+    <organization>
+        <name>Complex Adaptive Systems and Computational Intelligence Lab</name>
+        <url>https://casci.binghamton.edu/casci.php</url>
+    </organization>
 
     <dependencies>
        <dependency>
